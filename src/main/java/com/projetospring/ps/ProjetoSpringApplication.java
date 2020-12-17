@@ -1,4 +1,4 @@
-package com.projentospring.ps;
+package com.projetospring.ps;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -8,6 +8,8 @@ public class ProjetoSpringApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ProjetoSpringApplication.class, args);
+		
+		
 	}
 
 }
